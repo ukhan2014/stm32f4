@@ -1,0 +1,5 @@
+Status file. This file just contains what I need to do next for this project:
+
+1. Connect parallel cables from ov7670 to MCU, supply 3v3 line and xClk with clock signal
+2. Test to see if the href and vsync pins come alive along with the parallel lines.
+3. Figure out next steps for SCCB interface to the ov7670 and if i2c (or tweaked i2c) will be enough to talk to it
